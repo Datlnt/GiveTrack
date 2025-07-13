@@ -1,0 +1,7 @@
+# 👉 Bỏ qua thư mục node_modules
+node_modules/
+
+# 👉 Các file tạm
+.env
+.DS_Store
+*.log
