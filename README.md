@@ -18,6 +18,13 @@
 - **Smart Contract:** Tích hợp địa chỉ ví nhận tiền từ thiện (giả lập hoặc có thể tùy chỉnh sau)
 
 ---
+charity-dapp/
+├── public/
+├── src/
+│   ├── App.js
+│   └── ...
+├── package.json
+└── .gitignore
 
 ## 📦 Cài đặt và chạy ứng dụng
 
